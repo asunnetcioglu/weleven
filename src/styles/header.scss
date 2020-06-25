@@ -1,0 +1,11 @@
+.Header {
+  height: 60px;
+  background: $night-blue;
+    img {
+      border-radius: $border-radius;
+      float: right;
+    }
+  .inner-row {
+    margin-top: 13px;
+  }
+}

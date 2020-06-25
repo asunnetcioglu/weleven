@@ -1,0 +1,38 @@
+/* Colors */
+$white:#fff;
+$gray-100: #e9eaeb;
+$gray-200: #d1d1d1;
+$gray-600: rgba(17, 50, 96, 0.7);;
+$gray-800: #444;
+$night-blue: #02063f;
+$light: $white;
+$light-royal-blue: #3852ff;
+$slate-blue: #586f8f;
+$aqua-green: #12c990;
+
+/* Typography */
+/*$font-family-sans-serif:"Roboto Slab", Arial, sans-serif;*/
+$font-size-base:15px;
+$font-size-lg: $font-size-base * 1.1;
+$font-size-sm: $font-size-base * .875;
+
+/* Components */
+
+$border-radius: 10rem;
+$border-radius-lg: 10rem;
+$border-radius-sm: 10rem;
+
+//Input
+$input-border-radius: .2rem;
+
+//Button
+$btn-font-weight: 700;
+$input-btn-font-size-lg: $font-size-lg;
+$input-btn-padding-x:1.7rem;
+$input-btn-padding-y:.5rem;
+$input-btn-padding-x-lg:3rem;
+$input-btn-padding-y-lg:.80rem;
+$btn-primary: #3852ff;
+
+
+
